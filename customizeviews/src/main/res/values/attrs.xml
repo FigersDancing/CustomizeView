@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WordArtText">
+        <attr name="startColor" format="color"></attr>
+        <attr name="endColor" format="color"></attr>
+        <attr name="radioHeight" format="float"></attr>
+        <attr name="radioWith" format="float"></attr>
+        <attr name="strokeColor" format="color"></attr>
+        <attr name="strokeWidth" format="dimension"></attr>
+    </declare-styleable>
+</resources>
